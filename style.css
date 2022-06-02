@@ -1,5 +1,10 @@
+div {
+    width: 300px;
+    background-color: burlywood;
+}
+
 body {
-  background-color: burlywood;
+  /* background-color: burlywood; */
 }
 
 h1,
