@@ -31,6 +31,12 @@ p {
   max-width: 500px;
 }
 
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+
 h1,
 h2 {
     font-family: Impact, serif;
