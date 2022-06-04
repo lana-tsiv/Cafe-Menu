@@ -20,7 +20,7 @@ p {
   justify-content: space-between;
 }
 
-.flavor {
+.dessert, .flavor {
   width: 50%;
   text-align: left;
 }
